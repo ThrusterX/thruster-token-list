@@ -9,8 +9,6 @@ jobs:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
-    environment: main
-
     steps:      
       - name: Create GitHub App token
         uses: actions/create-github-app-token@v1
