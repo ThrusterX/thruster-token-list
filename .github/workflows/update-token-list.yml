@@ -41,6 +41,6 @@ jobs:
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
-          b  git commit -m 'Update token-list.json files'
+            git commit -m 'Update token-list.json files'
             git push origin HEAD:${{ github.ref }}
           fi
