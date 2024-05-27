@@ -1,0 +1,16 @@
+[
+  {
+    "tokenAddress": "0x4200000000000000000000000000000000000022",
+    "tokenName": "USD Blast",
+    "tokenSymbol": "USDB",
+    "tokenDecimals": 18,
+    "tokenCategory": "Stablecoin"
+  },
+  {
+    "tokenAddress": "0x4200000000000000000000000000000000000023",
+    "tokenName": "Wrapped ETH",
+    "tokenSymbol": "WETH",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
+  }
+]

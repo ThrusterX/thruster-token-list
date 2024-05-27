@@ -1,0 +1,7 @@
+{
+  "tokenAddress": "0x4300000000000000000000000000000000000003",
+  "tokenName": "USD Blast",
+  "tokenSymbol": "USDB",
+  "tokenDecimals": 18,
+  "tokenCategory": "Stablecoin"
+}

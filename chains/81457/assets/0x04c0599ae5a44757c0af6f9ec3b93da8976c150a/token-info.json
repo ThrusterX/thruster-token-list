@@ -1,0 +1,7 @@
+{
+  "tokenAddress": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+  "tokenName": "Wrapped eETH",
+  "tokenSymbol": "weETH",
+  "tokenDecimals": 18,
+  "tokenCategory": "DeFi"
+}

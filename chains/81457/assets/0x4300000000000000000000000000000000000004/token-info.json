@@ -1,0 +1,7 @@
+{
+  "tokenAddress": "0x4300000000000000000000000000000000000004",
+  "tokenName": "Wrapped ETH",
+  "tokenSymbol": "WETH",
+  "tokenDecimals": 18,
+  "tokenCategory": "Other"
+}
