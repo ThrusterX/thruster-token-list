@@ -12,5 +12,12 @@
     "tokenSymbol": "WETH",
     "tokenDecimals": 18,
     "tokenCategory": "Other"
+  },
+  {
+    "tokenAddress": "0x4200000000000000000000000000000000000023",
+    "tokenName": "Wrapped ETH",
+    "tokenSymbol": "WETH",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
   }
 ]
