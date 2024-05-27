@@ -9,8 +9,6 @@ jobs:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
-    environment: main
-
     steps:      
       - name: Create GitHub App token
         uses: actions/create-github-app-token@v1
@@ -43,6 +41,6 @@ jobs:
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
-            git commit -m 'Update token-list.json files'
+          b  git commit -m 'Update token-list.json files'
             git push origin HEAD:${{ github.ref }}
           fi
