@@ -2,11 +2,10 @@ name: Update Token List on PR Merge
 
 on:
   pull_request:
-    types: [closed]
+    types: [opened]
 
 jobs:
   update-token-list:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
 
     steps:      
