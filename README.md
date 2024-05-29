@@ -10,7 +10,7 @@ In order for any submitted request to be considered, Thruster requires the follo
 ## Getting Started
 To submit a request to whitelist a token on the Thruster frontend, you must do the following in a pull request:
 - In the corresponding chain directory in `/chains` (e.g. Blast is 81457), create a directory in `/assets` using the token contract address **in lowercase**.
-    - **Note:** Do not modify the `token-list.json` file at the root of the chain directories, this file is auto-generated.
+    - **Note:** Do not modify the `token-list.json` file at the root of the chain directories, this file is auto-generated from `update_list.sh` script.
 - For your token directory, you must create 2 files:
     - `token-info.json`
         - You must add the following:
@@ -22,10 +22,19 @@ To submit a request to whitelist a token on the Thruster frontend, you must do t
     - `token-logo.svg`
         - A svg file image of your token logo as a circle, which **MUST** be under 150 KB. Rectangles and other shapes of images will not be accepted.
 - Additionally, in the submitted PR, please add a brief description of the type of token if the token contract is non-standard (e.g. non-ERC20, BT404, tax).
+- You must run (from root) the `update_list.sh` file which will automatically update the associated `token-list.json` file.
 
 When you create a PR, a checklist of the above requirements should automatically be populated to help you make sure to submit the necessary information. **Your PR will not be accepted unless all information is complete.**
 
 If you have any additional information or requests (e.g. changing default token name, otherwise will be pulled from contract), please add any info under the *Additional Information* section in the pull request.
+
+### Updating `token-list.json`
+To update `token-list.json`, you will need to run from root:
+```
+./update_list.sh
+```
+
+This will add the token information from the directory added to the `token-list.json` file at the root of the `chain` directory.
 
 ## Disclaimer
 Thruster allows anyone to submit new assets to this repository. However, this does not mean that Thruster endorses any of these projects. It is important that individuals performs their own due diligence and risk assessment.
