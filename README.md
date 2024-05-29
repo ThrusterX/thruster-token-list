@@ -22,7 +22,7 @@ To submit a request to whitelist a token on the Thruster frontend, you must do t
     - `token-logo.svg`
         - A svg file image of your token logo as a circle, which **MUST** be under 150 KB. Rectangles and other shapes of images will not be accepted.
 - Additionally, in the submitted PR, please add a brief description of the type of token if the token contract is non-standard (e.g. non-ERC20, BT404, tax).
-- You must run (from root) the `update_lish.sh` file which will automatically update the associated `token-list.json` file.
+- You must run (from root) the `update_list.sh` file which will automatically update the associated `token-list.json` file.
 
 When you create a PR, a checklist of the above requirements should automatically be populated to help you make sure to submit the necessary information. **Your PR will not be accepted unless all information is complete.**
 
