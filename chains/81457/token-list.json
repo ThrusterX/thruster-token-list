@@ -105,6 +105,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "tokenName": "Staked USDe",
+    "tokenSymbol": "sUSDe",
+    "tokenDecimals": 18,
+    "tokenCategory": "Stablecoin"
+  },
+  {
     "tokenAddress": "0x216a5a1135a9dab49fa9ad865e0f22fe22b5630a",
     "tokenName": "Pump",
     "tokenSymbol": "PUMP",
@@ -194,6 +201,13 @@
     "tokenSymbol": "inETH",
     "tokenDecimals": 18,
     "tokenCategory": "DeFi"
+  },
+  {
+    "tokenAddress": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "tokenName": "USDe",
+    "tokenSymbol": "USDe",
+    "tokenDecimals": 18,
+    "tokenCategory": "Stablecoin"
   },
   {
     "tokenAddress": "0x5d68d64e80f47eff763b087deaae46ff25205674",
