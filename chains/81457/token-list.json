@@ -182,6 +182,13 @@
     "tokenCategory": "Other"
   },
   {
+    "tokenAddress": "0x472df997a253a8ae94121572d2017a7232705ab2",
+    "tokenName": "BUS",
+    "tokenSymbol": "BUS",
+    "tokenDecimals": 18,
+    "tokenCategory": "Memecoin"
+  },
+  {
     "tokenAddress": "0x491e6de43b55c8eae702edc263e32339da42f58c",
     "tokenName": "eesee",
     "tokenSymbol": "ESE",
