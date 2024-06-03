@@ -147,6 +147,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x2f67f59b3629bf24962290db9ede0cd4127e606d",
+    "tokenName": "Kalax Token",
+    "tokenSymbol": "KALA",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0x3580ac35bed2981d6bdd671a5982c2467d301241",
     "tokenName": "Ankr Network",
     "tokenSymbol": "ANKR",
