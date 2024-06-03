@@ -1,5 +1,5 @@
 # Thruster Token Listing
-This repo serves as an easy way to submit tokens for whitelisting on Thruster's token list. Pull requests (PRs) will be processed every 5-10 days, for more urgent requests please reach out to the team on Discord -- spam will be rejected.
+This repo serves as an easy way to submit tokens for whitelisting on Thruster's token list. Pull requests (PRs) will be processed periodically, for more urgent requests please reach out to the team on Discord -- spam will be rejected.
 
 ## Prerequisites
 In order for any submitted request to be considered, Thruster requires the following:
