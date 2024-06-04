@@ -385,6 +385,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0xd9a1266a23ed88fc9cb12454a5d6d338b65a3302",
+    "tokenName": "pSTAKE Finance",
+    "tokenSymbol": "PSTAKE",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
     "tokenName": "Andy",
     "tokenSymbol": "ANDY",
