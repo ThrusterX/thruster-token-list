@@ -56,13 +56,6 @@
     "tokenCategory": "DeFi"
   },
   {
-    "tokenAddress": "0x0f15ec6c4e5e071c1a4a6b03b2e9ad844b2db2ef",
-    "tokenName": "YESv2",
-    "tokenSymbol": "YES",
-    "tokenDecimals": 18,
-    "tokenCategory": "DeFi"
-  },
-  {
     "tokenAddress": "0x129ed667bf8c065fe5f66c9b44b7cb0126d85cc3",
     "tokenName": "AIWAIFU",
     "tokenSymbol": "$WAI",
