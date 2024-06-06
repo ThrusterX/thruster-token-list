@@ -350,6 +350,13 @@
     "tokenCategory": "Memecoin"
   },
   {
+    "tokenAddress": "0xb3443dd8590ec811726df6909d9bca6d6d4e250e",
+    "tokenName": "Wrapped Ethlas Token",
+    "tokenSymbol": "WELS",
+    "tokenDecimals": 18,
+    "tokenCategory": "Gaming"
+  },
+  {
     "tokenAddress": "0xb582dc28968c725d2868130752afa0c13ebf9b1a",
     "tokenName": "Blast Pepe",
     "tokenSymbol": "BEPE",
