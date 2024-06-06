@@ -385,6 +385,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0xcc50560827465f25132929711d5b2cf78625d399",
+    "tokenName": "Ghost Coin",
+    "tokenSymbol": "GHOST",
+    "tokenDecimals": 18,
+    "tokenCategory": "Memecoin"
+  },
+  {
     "tokenAddress": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
     "tokenName": "Andy",
     "tokenSymbol": "ANDY",
