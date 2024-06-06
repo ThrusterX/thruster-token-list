@@ -33,6 +33,7 @@ To update `token-list.json`, you will need to run from root:
 ```
 ./update_list.sh
 ```
+You will need the `jq` package installed, see instructions to install here: https://jqlang.github.io/jq/download/.
 
 This will add the token information from the directory added to the `token-list.json` file at the root of the `chain` directory.
 
