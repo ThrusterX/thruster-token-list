@@ -26,7 +26,7 @@ def validate_json(json_file):
         return False
     
     # Ensure tokenCategory is valid
-    valid_categories = ["Stablecoin", "DeFi", "Memecoin", "Other"]
+    valid_categories = ["Stablecoin", "DeFi", "Memecoin", "Game", "Other"]
     if data["tokenCategory"] not in valid_categories:
         print(f"Invalid tokenCategory in: {json_file}")
         return False

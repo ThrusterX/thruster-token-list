@@ -18,7 +18,7 @@ To submit a request to whitelist a token on the Thruster frontend, you must do t
             - `tokenName`: the token name on the blockchain
             - `tokenSymbol`: the token symbol on the blockchain
             - `tokenDecimals`: the decimals of the token on the blockchain
-            - `tokenCategory`: desired category for the token (i.e. `DeFi`, `Stablecoin`, `Memecoin`, or by default `Other`)
+            - `tokenCategory`: desired category for the token (i.e. `DeFi`, `Stablecoin`, `Memecoin`, `Game`, or by default `Other`)
     - `token-logo.svg`
         - A svg file image of your token logo as a circle, which **MUST** be under 150 KB. Rectangles and other shapes of images will not be accepted.
 - Additionally, in the submitted PR, please add a brief description of the type of token if the token contract is non-standard (e.g. non-ERC20, BT404, tax).

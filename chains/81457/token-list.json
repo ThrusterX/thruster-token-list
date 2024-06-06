@@ -74,7 +74,7 @@
     "tokenName": "KAP Games",
     "tokenSymbol": "KAP",
     "tokenDecimals": 18,
-    "tokenCategory": "DeFi"
+    "tokenCategory": "Game"
   },
   {
     "tokenAddress": "0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253",
@@ -242,7 +242,7 @@
     "tokenName": "Yield Token",
     "tokenSymbol": "YIELD",
     "tokenDecimals": 18,
-    "tokenCategory": "DeFi"
+    "tokenCategory": "Game"
   },
   {
     "tokenAddress": "0x68449870eea84453044bd430822827e21fd8f101",
@@ -368,7 +368,7 @@
     "tokenName": "bWOOL",
     "tokenSymbol": "bWOOL",
     "tokenDecimals": 18,
-    "tokenCategory": "DeFi"
+    "tokenCategory": "Game"
   },
   {
     "tokenAddress": "0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f",
@@ -410,7 +410,7 @@
     "tokenName": "Sekai Glory",
     "tokenSymbol": "GLORY",
     "tokenDecimals": 18,
-    "tokenCategory": "DeFi"
+    "tokenCategory": "Game"
   },
   {
     "tokenAddress": "0xd71035849d2fba67533bf50900a3e8b684ac1b42",
@@ -466,6 +466,6 @@
     "tokenName": "SSS",
     "tokenSymbol": "SSS",
     "tokenDecimals": 18,
-    "tokenCategory": "Other"
+    "tokenCategory": "Game"
   }
 ]
