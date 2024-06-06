@@ -322,6 +322,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x8e38179d361402f6a94767757e807146609e9b3d",
+    "tokenName": "DOLA USD Stablecoin",
+    "tokenSymbol": "DOLA",
+    "tokenDecimals": 18,
+    "tokenCategory": "Stablecoin"
+  },
+  {
     "tokenAddress": "0x999f220296b5843b2909cc5f8b4204aaca5341d8",
     "tokenName": "MetaStreet V2 Deposit: WPUNKS-wstETH:40",
     "tokenSymbol": "mwstETH-WPUNKS:40",
