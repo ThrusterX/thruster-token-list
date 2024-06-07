@@ -406,6 +406,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0xcbf7b47e9da345812e3bd732e3ee369a7203b5ae",
+    "tokenName": "pSTAKE Finance",
+    "tokenSymbol": "PSTAKE",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xcc50560827465f25132929711d5b2cf78625d399",
     "tokenName": "Ghost Coin",
     "tokenSymbol": "GHOST",
