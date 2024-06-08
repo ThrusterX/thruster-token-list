@@ -84,6 +84,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x1a49351bdb4be48c0009b661765d01ed58e8c2d8",
+    "tokenName": "YESv2",
+    "tokenSymbol": "YES",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0x1da40c742f32bbee81694051c0ee07485fc630f6",
     "tokenName": "Duo ETH",
     "tokenSymbol": "DETH",
