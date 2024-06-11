@@ -469,6 +469,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0xe6a062fba3918376500a602c800b1e0307420457",
+    "tokenName": "GREED",
+    "tokenSymbol": "GREED",
+    "tokenDecimals": 18,
+    "tokenCategory": "GameFi"
+  },
+  {
     "tokenAddress": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
     "tokenName": "rsETHWrapper",
     "tokenSymbol": "wrsETH",
