@@ -259,6 +259,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x6cc87c5ab2cfac0f2d582286f5ba69ca555fecb0",
+    "tokenName": "AIRcoin",
+    "tokenSymbol": "AIR",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
+  },
+  {
     "tokenAddress": "0x7135b32e9903bdb4e19a8b1d22fc2038964b8451",
     "tokenName": "EARLY Token",
     "tokenSymbol": "EARLY",
