@@ -154,6 +154,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x406f10d635be12ad33d6b133c6da89180f5b999e",
+    "tokenName": "Blast LooksRare Token",
+    "tokenSymbol": "bLOOKS",
+    "tokenDecimals": 18,
+    "tokenCategory": "Game"
+  },
+  {
     "tokenAddress": "0x41cf7ea4ba650191e829a6bd31b9e2049c78d858",
     "tokenName": "MetaStreet V2 Deposit: PPG-WETH:5",
     "tokenSymbol": "mWETH-PPG:5",
