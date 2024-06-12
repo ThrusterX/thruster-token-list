@@ -497,6 +497,13 @@
     "tokenCategory": "Stablecoin"
   },
   {
+    "tokenAddress": "0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3",
+    "tokenName": "YOLO",
+    "tokenSymbol": "YOLO",
+    "tokenDecimals": 18,
+    "tokenCategory": "Game"
+  },
+  {
     "tokenAddress": "0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692",
     "tokenName": "Wrapped BTC",
     "tokenSymbol": "WBTC",
