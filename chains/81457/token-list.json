@@ -530,5 +530,12 @@
     "tokenSymbol": "SSS",
     "tokenDecimals": 18,
     "tokenCategory": "Game"
-  }
+  },
+    {
+    "tokenAddress": "0x357f93e17fdabecd3fefc488a2d27dff8065d00f",
+    "tokenName": "ZeroLend",
+    "tokenSymbol": "ZERO",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
 ]
