@@ -147,6 +147,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x357f93e17fdabecd3fefc488a2d27dff8065d00f",
+    "tokenName": "ZeroLend",
+    "tokenSymbol": "ZERO",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0x3580ac35bed2981d6bdd671a5982c2467d301241",
     "tokenName": "Ankr Network",
     "tokenSymbol": "ANKR",
