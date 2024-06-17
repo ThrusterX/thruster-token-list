@@ -5,6 +5,7 @@
 - [ ] An SVG <150 KB in size, cropped to be a circle. **Rectangles and other shapes of images will not be accepted.**
 - [ ] Token category you would like to be listed under
     - Current categories: DeFi, Memecoin, Stablecoin, Game, Other
+- [ ] Ran the `update_list.sh` script to generate the `token-list.json` file **DO NOT MANUALLY EDIT THE FILE**
 
 ### Additional Information
 - 
