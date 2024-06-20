@@ -420,6 +420,13 @@
     "tokenCategory": "Other"
   },
   {
+    "tokenAddress": "0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763",
+    "tokenName": "Aladdin rUSD",
+    "tokenSymbol": "arUSD",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xc8d8d820f88df3bd48c4f8e95bca3b994b73c699",
     "tokenName": "mBlastopians",
     "tokenSymbol": "mBLASTOPIANS",
