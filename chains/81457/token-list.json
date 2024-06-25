@@ -497,6 +497,13 @@
     "tokenCategory": "Stablecoin"
   },
   {
+    "tokenAddress": "0xdc60c24de182b07cb3f3a9269f120d8c15c4b381",
+    "tokenName": "Digital Art Movement",
+    "tokenSymbol": "DAM",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
+  },
+  {
     "tokenAddress": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e",
     "tokenName": "Staked FRAX",
     "tokenSymbol": "sFRAX",
