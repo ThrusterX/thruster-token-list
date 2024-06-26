@@ -385,6 +385,13 @@
     "tokenCategory": "Memecoin"
   },
   {
+    "tokenAddress": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
+    "tokenName": "Blast",
+    "tokenSymbol": "BLAST",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
+  },
+  {
     "tokenAddress": "0xb3443dd8590ec811726df6909d9bca6d6d4e250e",
     "tokenName": "Wrapped Ethlas Token",
     "tokenSymbol": "WELS",
