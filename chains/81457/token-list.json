@@ -427,6 +427,13 @@
     "tokenCategory": "Other"
   },
   {
+    "tokenAddress": "0xbc295dffd0cbd38747e511545e304615c4a1dc6e",
+    "tokenName": "GBT",
+    "tokenSymbol": "GBT",
+    "tokenDecimals": 18,
+    "tokenCategory": "Game"
+  },
+  {
     "tokenAddress": "0xc608dfb90a430df79a8a1edbc8be7f1a0eb4e763",
     "tokenName": "Aladdin rUSD",
     "tokenSymbol": "arUSD",
