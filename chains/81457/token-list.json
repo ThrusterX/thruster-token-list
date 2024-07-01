@@ -378,6 +378,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0xa027a3a04b44f79560153234e999b17c88e22db9",
+    "tokenName": "Particle",
+    "tokenSymbol": "PTC",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xa4c7aa67189ec5623121c6c94ec757dfed932d4b",
     "tokenName": "Mia",
     "tokenSymbol": "MIA",
