@@ -565,5 +565,12 @@
     "tokenSymbol": "SSS",
     "tokenDecimals": 18,
     "tokenCategory": "Game"
+  },
+  {
+    "tokenAddress": "0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6",
+    "tokenName": "USDz",
+    "tokenSymbol": "USDz",
+    "tokenDecimals": 18,
+    "tokenCategory": "Stablecoin"
   }
 ]
