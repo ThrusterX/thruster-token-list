@@ -385,6 +385,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x9e92c0b2b84ddac571bde330c4b44096a7c99909",
+    "tokenName": "Tornado",
+    "tokenSymbol": "TRNDO",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xa027a3a04b44f79560153234e999b17c88e22db9",
     "tokenName": "Particle",
     "tokenSymbol": "PTC",
