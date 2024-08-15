@@ -413,6 +413,13 @@
     "tokenCategory": "Other"
   },
   {
+    "tokenAddress": "0xae57fe379494b30ec1e085fb8a87d9c2fdcbca2a",
+    "tokenName": "Phoenix",
+    "tokenSymbol": "PEX",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
     "tokenName": "Blast",
     "tokenSymbol": "BLAST",
