@@ -252,13 +252,6 @@
     "tokenCategory": "Memecoin"
   },
   {
-    "tokenAddress": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
-    "tokenName": "PacMoon",
-    "tokenSymbol": "PAC",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
     "tokenAddress": "0x6531ae67098bc73db9179dcbc6f161fcd9fd4c01",
     "tokenName": "MetaStreet V2 Deposit: PPG-WETH:10",
     "tokenSymbol": "mWETH-PPG:10",
