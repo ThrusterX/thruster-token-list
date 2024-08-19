@@ -1,0 +1,39 @@
+<svg width="146" height="180" viewBox="0 0 146 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_7204_28918)">
+<g clip-path="url(#clip1_7204_28918)">
+<path d="M50.8481 0L0 75.4382L50.8481 102.312V54.7725V0Z" fill="url(#paint0_linear_7204_28918)"/>
+<path d="M56.114 0L106.962 75.4382L56.114 102.312V54.7725V0Z" fill="url(#paint1_linear_7204_28918)"/>
+<path d="M56.1187 102.319L106.965 75.4442L56.1187 54.7786V102.319Z" fill="#0E322D"/>
+<path d="M-6.10352e-05 75.4442L50.848 102.319V54.7786L-6.10352e-05 75.4442Z" fill="#0B5B3E"/>
+<path d="M51.1965 145.998V108.192L0.684326 80.8989L51.1965 145.998Z" fill="url(#paint2_linear_7204_28918)"/>
+<path d="M56.1362 145.998V108.192L106.648 80.8989L56.1362 145.998Z" fill="url(#paint3_linear_7204_28918)"/>
+</g>
+<rect x="64.2" y="98.5" width="81" height="81" rx="37.6744" fill="#1E1E1E"/>
+<path d="M121.477 138.973L130.938 134.258L134.2 124.247L127.677 119.5H84.243L74.2 126.96H125.255L122.542 135.356H102.069L100.099 141.491H120.572L114.824 159.156L124.415 154.408L127.838 143.816L121.412 139.102L121.477 138.973Z" fill="#FCFC03"/>
+<path d="M88.6348 151.567L94.5444 133.16L87.9889 128.251L78.1396 159.155H114.824L117.279 151.567H88.6348Z" fill="#FCFC03"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_7204_28918" x1="44.3832" y1="19.0596" x2="-10.6131" y2="42.057" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FF84"/>
+<stop offset="1" stop-color="#2EBAC6"/>
+</linearGradient>
+<linearGradient id="paint1_linear_7204_28918" x1="62.5789" y1="19.0596" x2="117.575" y2="42.057" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FF84"/>
+<stop offset="1" stop-color="#2EBAC6"/>
+</linearGradient>
+<linearGradient id="paint2_linear_7204_28918" x1="44.7744" y1="93.0262" x2="-0.230015" y2="122.408" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FF84"/>
+<stop offset="1" stop-color="#2EBAC6"/>
+</linearGradient>
+<linearGradient id="paint3_linear_7204_28918" x1="62.5583" y1="93.0262" x2="107.563" y2="122.408" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FF84"/>
+<stop offset="1" stop-color="#2EBAC6"/>
+</linearGradient>
+<clipPath id="clip0_7204_28918">
+<rect width="146" height="180" fill="white"/>
+</clipPath>
+<clipPath id="clip1_7204_28918">
+<rect width="106.973" height="146" fill="white"/>
+</clipPath>
+</defs>
+</svg>
