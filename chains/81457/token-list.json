@@ -224,6 +224,13 @@
     "tokenCategory": "Stablecoin"
   },
   {
+    "tokenAddress": "0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6",
+    "tokenName": "BlastUP Token",
+    "tokenSymbol": "BLASTUP",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d",
     "tokenName": "InceptionLRT restaked ETH",
     "tokenSymbol": "inETH",
