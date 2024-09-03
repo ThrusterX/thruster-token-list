@@ -532,13 +532,6 @@
     "tokenCategory": "DeFi"
   },
   {
-    "tokenAddress": "0xd85f663effcaa5d44fa69b0d5c0dc02b20957c86",
-    "tokenName": "WrappedHypersound",
-    "tokenSymbol": "WHYPERS",
-    "tokenDecimals": 18,
-    "tokenCategory": "Other"
-  },
-  {
     "tokenAddress": "0xd86b2b6f1169e4304be700d6522c3ff79ff8fb77",
     "tokenName": "Wand USB",
     "tokenSymbol": "USB",
@@ -593,6 +586,13 @@
     "tokenSymbol": "WBTC",
     "tokenDecimals": 8,
     "tokenCategory": "DeFi"
+  },
+  {
+    "tokenAddress": "0xf8797db8a9eed416ca14e8dfaede2bf4e1aabfc3",
+    "tokenName": "Hypersound",
+    "tokenSymbol": "HYPERS",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
   },
   {
     "tokenAddress": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e",
