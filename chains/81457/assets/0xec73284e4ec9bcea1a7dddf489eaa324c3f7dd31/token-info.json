@@ -2,6 +2,6 @@
     "tokenAddress": "0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31",
     "tokenName": "HYPER",
     "tokenSymbol": "HYPER",
-    "tokenDecimals": 8,
+    "tokenDecimals": 18,
     "tokenCategory": "DeFi"
 }
