@@ -7,13 +7,6 @@
     "tokenCategory": "Other"
   },
   {
-    "tokenAddress": "0x000000daa580e54635a043d2773f2c698593836a",
-    "tokenName": "Oh No",
-    "tokenSymbol": "OHNO",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
     "tokenAddress": "0x010392305558d58e1cb0eec5529a65bf3545f82e",
     "tokenName": "MACHI",
     "tokenSymbol": "MACHI",
@@ -40,20 +33,6 @@
     "tokenSymbol": "UPT",
     "tokenDecimals": 18,
     "tokenCategory": "DeFi"
-  },
-  {
-    "tokenAddress": "0x0a4b0263589750e6383e199310be98e6e2dee258",
-    "tokenName": "WORLD PEACE",
-    "tokenSymbol": "PEACE",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
-    "tokenAddress": "0x0b4d0ee29857c3961b380d4ec138ea5814e346b9",
-    "tokenName": "P@cman Blastoff",
-    "tokenSymbol": "$PACM",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
   },
   {
     "tokenAddress": "0x0c2ffacd70c1d1cb04d4803dea055dd9d4b57601",
@@ -203,13 +182,6 @@
     "tokenCategory": "Other"
   },
   {
-    "tokenAddress": "0x472df997a253a8ae94121572d2017a7232705ab2",
-    "tokenName": "BUS",
-    "tokenSymbol": "BUS",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
     "tokenAddress": "0x491e6de43b55c8eae702edc263e32339da42f58c",
     "tokenName": "eesee",
     "tokenSymbol": "ESE",
@@ -250,20 +222,6 @@
     "tokenSymbol": "USDe",
     "tokenDecimals": 18,
     "tokenCategory": "Stablecoin"
-  },
-  {
-    "tokenAddress": "0x5d68d64e80f47eff763b087deaae46ff25205674",
-    "tokenName": "SWIM",
-    "tokenSymbol": "$SWIM",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
-    "tokenAddress": "0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204",
-    "tokenName": "Baja",
-    "tokenSymbol": "BAJA",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
   },
   {
     "tokenAddress": "0x6531ae67098bc73db9179dcbc6f161fcd9fd4c01",
@@ -406,13 +364,6 @@
     "tokenCategory": "DeFi"
   },
   {
-    "tokenAddress": "0xa4c7aa67189ec5623121c6c94ec757dfed932d4b",
-    "tokenName": "Mia",
-    "tokenSymbol": "MIA",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
     "tokenAddress": "0xa5370b8e2413b23ea16f3b78d1d1ba3969678227",
     "tokenName": "Wrapped SOL",
     "tokenSymbol": "wSOL",
@@ -495,20 +446,6 @@
     "tokenSymbol": "PSTAKE",
     "tokenDecimals": 18,
     "tokenCategory": "DeFi"
-  },
-  {
-    "tokenAddress": "0xcc50560827465f25132929711d5b2cf78625d399",
-    "tokenName": "Ghost Coin",
-    "tokenSymbol": "GHOST",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
-    "tokenAddress": "0xcdbe12611f18b43098202d45928c905b34736c06",
-    "tokenName": "NOGOLD",
-    "tokenSymbol": "NOGOLD",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
   },
   {
     "tokenAddress": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
