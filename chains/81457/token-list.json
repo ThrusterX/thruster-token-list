@@ -77,13 +77,6 @@
     "tokenCategory": "DeFi"
   },
   {
-    "tokenAddress": "0x1da40c742f32bbee81694051c0ee07485fc630f6",
-    "tokenName": "Duo ETH",
-    "tokenSymbol": "DETH",
-    "tokenDecimals": 18,
-    "tokenCategory": "DeFi"
-  },
-  {
     "tokenAddress": "0x1f55a02a049033e3419a8e2975cf3f572f4e6e9a",
     "tokenName": "Staked Frax Ether",
     "tokenSymbol": "sfrxETH",
