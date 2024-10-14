@@ -63,13 +63,6 @@
     "tokenCategory": "Game"
   },
   {
-    "tokenAddress": "0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253",
-    "tokenName": "Duo USD",
-    "tokenSymbol": "DUSD",
-    "tokenDecimals": 18,
-    "tokenCategory": "DeFi"
-  },
-  {
     "tokenAddress": "0x1a49351bdb4be48c0009b661765d01ed58e8c2d8",
     "tokenName": "YESv2",
     "tokenSymbol": "YES",
