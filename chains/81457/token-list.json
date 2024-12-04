@@ -49,6 +49,13 @@
     "tokenCategory": "Other"
   },
   {
+    "tokenAddress": "0x135f9b3d5dec9d73c042cf380adfff95f4fe9e35",
+    "tokenName": "PREON",
+    "tokenSymbol": "PREON",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
     "tokenName": "Aura",
     "tokenSymbol": "AURA",
@@ -416,6 +423,13 @@
     "tokenAddress": "0xbb4e01b8940e8e2b3a95ced7941969d033786ff7",
     "tokenName": "Affine ultraETHs 2.0",
     "tokenSymbol": "ultraETHs",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
+    "tokenAddress": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+    "tokenName": "STAR",
+    "tokenSymbol": "STAR",
     "tokenDecimals": 18,
     "tokenCategory": "DeFi"
   },
