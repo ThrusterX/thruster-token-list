@@ -7,11 +7,11 @@
     "tokenCategory": "Other"
   },
   {
-    "tokenAddress": "0x000000daa580e54635a043d2773f2c698593836a",
-    "tokenName": "Oh No",
-    "tokenSymbol": "OHNO",
+    "tokenAddress": "0x010392305558d58e1cb0eec5529a65bf3545f82e",
+    "tokenName": "MACHI",
+    "tokenSymbol": "MACHI",
     "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
+    "tokenCategory": "DeFi"
   },
   {
     "tokenAddress": "0x049e6a52e2c9b7814c8178908f3630726c134c92",
@@ -33,20 +33,6 @@
     "tokenSymbol": "UPT",
     "tokenDecimals": 18,
     "tokenCategory": "DeFi"
-  },
-  {
-    "tokenAddress": "0x0a4b0263589750e6383e199310be98e6e2dee258",
-    "tokenName": "WORLD PEACE",
-    "tokenSymbol": "PEACE",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
-    "tokenAddress": "0x0b4d0ee29857c3961b380d4ec138ea5814e346b9",
-    "tokenName": "P@cman Blastoff",
-    "tokenSymbol": "$PACM",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
   },
   {
     "tokenAddress": "0x0c2ffacd70c1d1cb04d4803dea055dd9d4b57601",
@@ -203,13 +189,6 @@
     "tokenCategory": "Other"
   },
   {
-    "tokenAddress": "0x472df997a253a8ae94121572d2017a7232705ab2",
-    "tokenName": "BUS",
-    "tokenSymbol": "BUS",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
     "tokenAddress": "0x491e6de43b55c8eae702edc263e32339da42f58c",
     "tokenName": "eesee",
     "tokenSymbol": "ESE",
@@ -224,6 +203,20 @@
     "tokenCategory": "Stablecoin"
   },
   {
+    "tokenAddress": "0x52056ed29fe015f4ba2e3b079d10c0b87f46e8c6",
+    "tokenName": "USDz",
+    "tokenSymbol": "USDz",
+    "tokenDecimals": 18,
+    "tokenCategory": "Stablecoin"
+  },
+  {
+    "tokenAddress": "0x59c159e5a4f4d1c86f7abdc94b7907b7473477f6",
+    "tokenName": "BlastUP Token",
+    "tokenSymbol": "BLASTUP",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d",
     "tokenName": "InceptionLRT restaked ETH",
     "tokenSymbol": "inETH",
@@ -236,27 +229,6 @@
     "tokenSymbol": "USDe",
     "tokenDecimals": 18,
     "tokenCategory": "Stablecoin"
-  },
-  {
-    "tokenAddress": "0x5d68d64e80f47eff763b087deaae46ff25205674",
-    "tokenName": "SWIM",
-    "tokenSymbol": "$SWIM",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
-    "tokenAddress": "0x5fe8534a6f96cb01261bd96e98c17c2c1cab3204",
-    "tokenName": "Baja",
-    "tokenSymbol": "BAJA",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
-    "tokenAddress": "0x5ffd9ebd27f2fcab044c0f0a26a45cb62fa29c06",
-    "tokenName": "PacMoon",
-    "tokenSymbol": "PAC",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
   },
   {
     "tokenAddress": "0x6531ae67098bc73db9179dcbc6f161fcd9fd4c01",
@@ -385,11 +357,32 @@
     "tokenCategory": "DeFi"
   },
   {
-    "tokenAddress": "0xa4c7aa67189ec5623121c6c94ec757dfed932d4b",
-    "tokenName": "Mia",
-    "tokenSymbol": "MIA",
+    "tokenAddress": "0x9e92c0b2b84ddac571bde330c4b44096a7c99909",
+    "tokenName": "Tornado",
+    "tokenSymbol": "TRNDO",
     "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
+    "tokenCategory": "DeFi"
+  },
+  {
+    "tokenAddress": "0xa027a3a04b44f79560153234e999b17c88e22db9",
+    "tokenName": "Particle",
+    "tokenSymbol": "PTC",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
+    "tokenAddress": "0xa5370b8e2413b23ea16f3b78d1d1ba3969678227",
+    "tokenName": "Wrapped SOL",
+    "tokenSymbol": "wSOL",
+    "tokenDecimals": 9,
+    "tokenCategory": "Other"
+  },
+  {
+    "tokenAddress": "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
+    "tokenName": "Blast",
+    "tokenSymbol": "BLAST",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
   },
   {
     "tokenAddress": "0xb3443dd8590ec811726df6909d9bca6d6d4e250e",
@@ -421,10 +414,17 @@
   },
   {
     "tokenAddress": "0xb9dfcd4cf589bb8090569cb52fac1b88dbe4981f",
-    "tokenName": "Bag",
+    "tokenName": "Bag.win",
     "tokenSymbol": "BAG",
     "tokenDecimals": 18,
-    "tokenCategory": "Other"
+    "tokenCategory": "Game"
+  },
+  {
+    "tokenAddress": "0xbb4e01b8940e8e2b3a95ced7941969d033786ff7",
+    "tokenName": "Affine ultraETHs 2.0",
+    "tokenSymbol": "ultraETHs",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
   },
   {
     "tokenAddress": "0xc19669a405067927865b40ea045a2baabbbe57f5",
@@ -462,20 +462,6 @@
     "tokenCategory": "DeFi"
   },
   {
-    "tokenAddress": "0xcc50560827465f25132929711d5b2cf78625d399",
-    "tokenName": "Ghost Coin",
-    "tokenSymbol": "GHOST",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
-    "tokenAddress": "0xcdbe12611f18b43098202d45928c905b34736c06",
-    "tokenName": "NOGOLD",
-    "tokenSymbol": "NOGOLD",
-    "tokenDecimals": 18,
-    "tokenCategory": "Memecoin"
-  },
-  {
     "tokenAddress": "0xd43d8adac6a4c7d9aeece7c3151fca8f23752cf8",
     "tokenName": "Andy",
     "tokenSymbol": "ANDY",
@@ -511,18 +497,25 @@
     "tokenCategory": "Stablecoin"
   },
   {
+    "tokenAddress": "0xdc60c24de182b07cb3f3a9269f120d8c15c4b381",
+    "tokenName": "Digital Art Movement",
+    "tokenSymbol": "DAM",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
+  },
+  {
+    "tokenAddress": "0xe36072dd051ce26261bf50cd966311cab62c596e",
+    "tokenName": "Thruster",
+    "tokenSymbol": "THRUST",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e",
     "tokenName": "Staked FRAX",
     "tokenSymbol": "sFRAX",
     "tokenDecimals": 18,
     "tokenCategory": "DeFi"
-  },
-  {
-    "tokenAddress": "0xe6a062fba3918376500a602c800b1e0307420457",
-    "tokenName": "GREED",
-    "tokenSymbol": "GREED",
-    "tokenDecimals": 18,
-    "tokenCategory": "Game"
   },
   {
     "tokenAddress": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
@@ -539,6 +532,13 @@
     "tokenCategory": "Stablecoin"
   },
   {
+    "tokenAddress": "0xec73284e4ec9bcea1a7dddf489eaa324c3f7dd31",
+    "tokenName": "HYPER",
+    "tokenSymbol": "HYPER",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
+  {
     "tokenAddress": "0xf77dd21c5ce38ac08786be35ef1d1dec1a6a15f3",
     "tokenName": "YOLO",
     "tokenSymbol": "YOLO",
@@ -551,6 +551,13 @@
     "tokenSymbol": "WBTC",
     "tokenDecimals": 8,
     "tokenCategory": "DeFi"
+  },
+  {
+    "tokenAddress": "0xf8797db8a9eed416ca14e8dfaede2bf4e1aabfc3",
+    "tokenName": "Hypersound",
+    "tokenSymbol": "HYPERS",
+    "tokenDecimals": 18,
+    "tokenCategory": "Other"
   },
   {
     "tokenAddress": "0xfd4d19f9fbb9f730c3c88a21755832bd2455144e",
