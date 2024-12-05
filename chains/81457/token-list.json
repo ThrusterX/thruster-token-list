@@ -70,13 +70,6 @@
     "tokenCategory": "Game"
   },
   {
-    "tokenAddress": "0x1BB5E4Dd6F18E8941fCe273379DF2223cD08C2da",
-    "tokenName": "FLAPPY",
-    "tokenSymbol": "FLAPPY",
-    "tokenDecimals": 18,
-    "tokenCategory": "Game"
-  },
-  {
     "tokenAddress": "0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253",
     "tokenName": "Duo USD",
     "tokenSymbol": "DUSD",
@@ -89,6 +82,13 @@
     "tokenSymbol": "YES",
     "tokenDecimals": 18,
     "tokenCategory": "DeFi"
+  },
+  {
+    "tokenAddress": "0x1bb5e4dd6f18e8941fce273379df2223cd08c2da",
+    "tokenName": "FLAPPY",
+    "tokenSymbol": "FLAPPY",
+    "tokenDecimals": 18,
+    "tokenCategory": "Game"
   },
   {
     "tokenAddress": "0x1da40c742f32bbee81694051c0ee07485fc630f6",
