@@ -84,6 +84,13 @@
     "tokenCategory": "DeFi"
   },
   {
+    "tokenAddress": "0x1bb5e4dd6f18e8941fce273379df2223cd08c2da",
+    "tokenName": "FLAPPY",
+    "tokenSymbol": "FLAPPY",
+    "tokenDecimals": 18,
+    "tokenCategory": "Game"
+  },
+  {
     "tokenAddress": "0x1da40c742f32bbee81694051c0ee07485fc630f6",
     "tokenName": "Duo ETH",
     "tokenSymbol": "DETH",
